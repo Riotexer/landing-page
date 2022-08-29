@@ -1,5 +1,5 @@
 # landing-page
-Llanding Page practice
+Landing Page practice
 
 # Images credits
 
