@@ -86,6 +86,11 @@ ul li {
     border: none;
 }
 
+.text button:hover {
+    cursor: pointer;
+    box-shadow: 0px 0px 10px black;
+}
+
 .lago {
     width: 550px;
     height: 250px;
@@ -180,6 +185,11 @@ figcaption {
     font-size: 15px;
     width: 140px;
     height: 40px;
+}
+
+.action-button:hover {
+    cursor: pointer;
+    box-shadow: 0px 0px 5px white;
 }
 
 /* FOOTER */
